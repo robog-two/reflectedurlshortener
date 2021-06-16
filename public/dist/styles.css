@@ -1,0 +1,16 @@
+@import "./assets/fontstack.css";
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+header h1 {
+  margin: 1rem;
+  font-family: "Raider Crusader Straight", serif;
+}
